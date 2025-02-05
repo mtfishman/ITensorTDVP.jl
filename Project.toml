@@ -23,7 +23,7 @@ ITensorTDVPObserversExt = "Observers"
 [compat]
 Adapt = "3, 4"
 Compat = "4"
-ITensors = "0.6.10"
+ITensors = "0.6.10, 0.8"
 KrylovKit = "0.6, 0.7, 0.8"
 NDTensors = "0.3.31"
 Observers = "0.2"
